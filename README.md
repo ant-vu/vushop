@@ -4,8 +4,8 @@ Ecommerce app with full CRUD capabilities where owners can manage their stores o
 
 Features: Sanity platform for simple product management, real payment functionality with Stripe, modern UI/UX.
 
-<img src="packages\react-app\src\assets\vushop-img1.png">
+<img src="public\vushop-img1.png">
 
-<img src="packages\react-app\src\assets\vushop-img2.png">
+<img src="public\vushop-img2.png">
 
-<img src="packages\react-app\src\assets\vushop-img3.png">
+<img src="public\vushop-img3.png">
