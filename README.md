@@ -1,8 +1,8 @@
 # VuShop
 
-Ecommerce app with full CRUD capabilities where owners can manage their stores on the go using a headless CMS.
+Ecommerce app with CRUD capabilities where owners can manage their stores on the go using a headless CMS.
 
-Features: Sanity platform for simple product management, real payment functionality with Stripe, modern UI/UX.
+Features: Sanity platform for easy product management, payment functionality with Stripe, innovative UI/UX.
 
 <img src="public\vushop-img1.png">
 
